@@ -1,0 +1,43 @@
+2020-05-31 20:40:52  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:40:52  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:40:52  [ main:95 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:41:33  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:41:33  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:41:33  [ main:92 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:43:27  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:43:27  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:43:27  [ main:93 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:43:51  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:43:51  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:43:51  [ main:95 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:46:40  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:46:40  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:46:40  [ main:26 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:46:40  [ main:27 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:46:40  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:46:40  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:46:41  [ main:99 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:48:40  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:48:40  [ main:4 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:48:40  [ main:27 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:40  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:40  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:40  [ main:28 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:40  [ main:96 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:48:40  [ main:367 ] - [ DEBUG ]  Created connection 1151593579.
+2020-05-31 20:48:40  [ main:368 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@44a3ec6b]
+2020-05-31 20:48:40  [ main:380 ] - [ DEBUG ]  ==>  Preparing: select * from employee 
+2020-05-31 20:48:40  [ main:407 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-31 20:48:40  [ main:439 ] - [ DEBUG ]  <==      Total: 6
+2020-05-31 20:48:54  [ main:0 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:48:54  [ main:3 ] - [ DEBUG ]  Logging initialized using 'class org.apache.ibatis.logging.log4j.Log4jImpl' adapter.
+2020-05-31 20:48:55  [ main:32 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:55  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:55  [ main:33 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:55  [ main:34 ] - [ DEBUG ]  PooledDataSource forcefully closed/removed all connections.
+2020-05-31 20:48:55  [ main:113 ] - [ DEBUG ]  Opening JDBC Connection
+2020-05-31 20:48:55  [ main:362 ] - [ DEBUG ]  Created connection 1151593579.
+2020-05-31 20:48:55  [ main:363 ] - [ DEBUG ]  Setting autocommit to false on JDBC Connection [com.mysql.jdbc.JDBC4Connection@44a3ec6b]
+2020-05-31 20:48:55  [ main:369 ] - [ DEBUG ]  ==>  Preparing: select * from employee 
+2020-05-31 20:48:55  [ main:393 ] - [ DEBUG ]  ==> Parameters: 
+2020-05-31 20:48:55  [ main:413 ] - [ DEBUG ]  <==      Total: 6
